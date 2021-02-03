@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=%20Hi%20there%20&fontSize=80&textBg=true&animation=fadeIn)
 ### MinStone🤔
 
-<details><summary>VELOG STATS</summary>
+<details><summary>STATS</summary>
   
-<!--VELOG:START-->
+
 1. [Blog](https://hhh57463.github.io/)
 <!--
 **hhh57463/hhh57463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
