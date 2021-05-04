@@ -1,10 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=%20Hi%20there%20&fontSize=80&textBg=true&animation=fadeIn)
+<!-- ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=%20Hi%20there%20&fontSize=80&textBg=true&animation=fadeIn) -->
 ### Mindol🤔
-
-<details><summary>STATS</summary>
+![GitHub](https://github-readme-stats.vercel.app/api?username=hhh57463&show_icons=true&theme=dracula)
   
-
-1. [Blog](https://hhh57463.github.io/)
+<!--1. [Blog](https://hhh57463.github.io/)-->
 <!--
 **hhh57463/hhh57463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</details>
