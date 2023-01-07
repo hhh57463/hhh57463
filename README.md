@@ -9,13 +9,13 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-## GitHub Stats⚡
+## GitHub Stats💪
 ![GitHub](https://github-readme-stats.vercel.app/api?username=hhh57463&show_icons=true&theme=dracula)
 
 ## Baekjoon Rank🌱
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hhh57463)](https://solved.ac/hhh57463)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhh57463)](https://solved.ac/hhh57463/)
 
-## Most Language🤔
+## Most Language⚡
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhh57463&layout=compact&theme=radical)
 
   
