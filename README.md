@@ -12,6 +12,12 @@
 ## GitHub Stats⚡
 ![GitHub](https://github-readme-stats.vercel.app/api?username=hhh57463&show_icons=true&theme=dracula)
 
+## Baekjoon tear🌱
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hhh57463)](https://solved.ac/hhh57463)
+
+## Most Language🤔
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhh57463&layout=compact&theme=radical)
+
   
 <!--1. [Blog](https://hhh57463.github.io/)-->
 <!--
