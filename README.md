@@ -1,6 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=%20Hi%20there%20&fontSize=80&textBg=true&animation=fadeIn) -->
-### Mindol🤔
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=🤔Mindol🤔&fontSize=90)
 ## My Tech💪
 
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
