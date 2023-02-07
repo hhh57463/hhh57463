@@ -3,10 +3,10 @@
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MINDOL&fontSize=90)
  
- ## 🔎Contact🔍
+<!--  ## 🔎Contact🔍
 📭 hhh57463@naver.com<br>
 🌎 [Blog](https://hhh57463.github.io)<br>
-💡 [GitHub](https://github.com/hhh57463)<br>
+💡 [GitHub](https://github.com/hhh57463)<br> -->
 <!--  <a href="https://hhh57463.github.io/"  target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=flat-square&logo=GitHub&logoColor=black" width="100"/></a> -->
 ## 💻My Tech🛠
 
